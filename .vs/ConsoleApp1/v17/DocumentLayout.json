@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|f:\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|F:\\ConsoleApp1\\consoleapp1\\bikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|F:\\ConsoleApp1\\consoleapp1\\bikemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bikemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|F:\\ConsoleApp1\\consoleapp1\\electricalbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\electricalbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|F:\\ConsoleApp1\\consoleapp1\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|F:\\ConsoleApp1\\consoleapp1\\petrolbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\petrolbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|F:\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A273D06E-E956-4F85-977A-58F98843B466}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:51:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BikeRepository.cs",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\BikeRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BikeRepository.cs",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\BikeRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\BikeRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:14:30.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-09T05:39:22.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElectricalBike.cs",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\ElectricalBike.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ElectricalBike.cs",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\ElectricalBike.cs",
+              "RelativeToolTip": "ConsoleApp1\\ElectricalBike.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:11:32.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetrolBike.cs",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\PetrolBike.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PetrolBike.cs",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\PetrolBike.cs",
+              "RelativeToolTip": "ConsoleApp1\\PetrolBike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:13:29.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BikeManager.cs",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\BikeManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BikeManager.cs",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\BikeManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\BikeManager.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:34:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "F:\\ConsoleApp1\\ConsoleApp1\\Bike.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Bike.cs",
+              "ToolTip": "F:\\ConsoleApp1\\ConsoleApp1\\Bike.cs",
+              "RelativeToolTip": "ConsoleApp1\\Bike.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:52:55.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
